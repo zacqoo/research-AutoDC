@@ -5,7 +5,7 @@ This repository is the official Python implementation of position paper "AutoDC:
 
 Zac Yung-Chun Liu, Shoumik Roychowdhury, Scott Tarlow, Akash Nair, Shweta Badhe, and Tejas Shah, AutoDC: Automated data-centric processing, NeurIPS 2021: DCAI workshop (submitted).
 
-![image](Fig_1.png)
+![image](Fig_1_small.png)
 
 AutoDC is a framework to enable domain experts to automatically and systematically improve datasets without much coding requirement and manual process, the idea similar with AutoML (automated machine learning). 
 
